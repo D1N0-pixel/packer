@@ -1,3 +1,5 @@
 obj/*
+!obj/.gitkeep
+
 packer
-test
+/test
